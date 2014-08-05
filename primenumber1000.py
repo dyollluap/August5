@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-
+Paul Lloyd - August 2014
 This is a script to find prime numbers under 1000. 
 """
 

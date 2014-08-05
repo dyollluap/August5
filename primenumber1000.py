@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
 
 This is a script to find prime numbers under 1000. 
 """
